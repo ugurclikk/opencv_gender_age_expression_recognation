@@ -13,16 +13,16 @@ Usage
 -----------
 
 ```
-git clone https://github.com/gurraunaqsingh/Gender-and-Age-Detection-OpenCV-Caffe.git
+git clone https://github.com/ugurclikk/opencv_gender_age_expression_recognation.git
 cd Gender-and-Age-Detection-OpenCV-Caffe
 python predict.py
 ```
 
 
-# pip install imutils  
-# pip install tensorflow    
-# pip install FER
-# pip install opencv-python
+ pip install imutils  
+ pip install tensorflow    
+ pip install FER
+ pip install opencv-python
 
 ## License
 -----------
