@@ -19,10 +19,10 @@ python predict.py
 ```
 
 
-References
------------
-- Age and Gender Detection with OpenCV on Raspberry Pi ([https://www.youtube.com/watch?v=F0njE7D22SI](https://www.youtube.com/watch?v=F0njE7D22SI))
-- Age and Gender Classification Using Convolutional Neural Networks ([https://talhassner.github.io/home/publication/2015_CVPR](https://talhassner.github.io/home/publication/2015_CVPR))
+# pip install imutils  
+# pip install tensorflow    
+# pip install FER
+# pip install opencv-python
 
 ## License
 -----------
